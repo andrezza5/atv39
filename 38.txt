@@ -1,0 +1,10 @@
+
+classe = banco
+
+construtor (conta, saldo, tipoconta, agencia)
+
+this conta = conta
+this saldo = saldo
+this tipoconta = tipoconta
+this agencia = agencia
+
